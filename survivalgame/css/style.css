@@ -1,0 +1,25 @@
+button {
+  font-size: 40px;
+  text-align:center;
+  margin:30px;
+  
+}
+h1{text-align:center;
+color:#061D25;
+font-size:60px;}
+p1{text-align:center;
+font-size:30px;
+margin:20px;}
+div1{text-align:center;}
+#man{width:25%;
+height:25%}
+#survival{float:right;
+  width:40%;
+  height:30%; 
+  margin:60px;
+}
+#fire{margin:10px;
+height:20%;
+width:30%;}
+p{font-size:70px;
+color:#C60202  ;}
