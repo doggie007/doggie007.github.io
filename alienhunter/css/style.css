@@ -1,0 +1,120 @@
+body {
+  background-image: url('http://static.comicvine.com/uploads/original/11115/111157776/4011903-spaceship_interior_05ggbig.jpg');
+  cursor: url('https://cdn3.iconfinder.com/data/icons/objects/512/Sniper_B-128.png'), auto;
+}
+
+h1{text-align:center;
+font-size:55px;
+  color:#0246C6;}
+
+#boatpic {
+  width: 40%;
+  height:20%;
+float:right;
+margin:20px}
+
+#alienpic {width:35%;
+margin:10px;}
+
+p{color:green;
+text-align:center;
+font-size:20px}
+
+button{font-size:80px;
+ display: block;
+ margin: auto;
+
+}
+.enemies{width:10%;}
+
+button:hover{background:red;}
+
+h2{color:purple;
+  text-align:center;
+  font-size:20px;
+}
+h2:hover{background:red;}
+/* aliens */
+
+#alien1 {
+  position: absolute;
+  top: 500px;
+  left: 580px;
+}
+
+#alien2 {
+  position: absolute;
+  top: 400px;
+  left: 540px;
+}
+
+#alien3 {
+  position: absolute;
+  top: 390px;
+  right:560px;
+}
+
+#alien4 {
+  position: absolute;
+  top: 350px;
+  left: 550px;
+}
+
+#alien5 {
+  position: absolute;
+  top: 400px;
+ right: 600px;
+}
+
+#alien6 {
+  position: absolute;
+  top: 420px;
+  right: 590px;
+}
+
+#alien7 {
+  position: absolute;
+  top: 290px;
+  left: 590px;
+}
+
+#alien8 {
+  position: absolute;
+  top: 460px;
+  right: 570px;
+}
+
+#alien9 {
+  position: absolute;
+  top: 490px;
+  left: 560px;
+}
+
+#gun{position:absolute;
+top:400px;
+left:600px;
+height:40%;
+width:20%;
+}
+
+h3{color:green;
+  font-size:30px;
+  border-style:solid;
+  border-color:blue;
+  text-align:center;
+}
+#boss:hover{background:green;
+text-align:center}
+
+#crown{width:5%;
+height:8%;
+position:absolute;
+top:470px;
+left:600px;}
+
+#gameover{font-size:200px;
+color:blue;}
+
+h2, a:visited {
+  color:#FEF71F  ;
+}
